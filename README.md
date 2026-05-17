@@ -22,7 +22,3 @@ LLM Agent 应用开发 | 安全 AI 探索者
 |---------|-------------|
 | [voice-cloner](https://github.com/RWRHACKER/voice-cloner) | SV2TTS real-time voice cloning desktop app with WASAPI loopback capture |
 | [Threatintel-Agent](https://github.com/RWRHACKER/Threatintel-Agent) | LLM-powered multi-source threat intelligence aggregation & analysis platform |
-
-#### 📊 Stats
-
-![RWRHACKER's GitHub stats](https://github-readme-stats.vercel.app/api?username=RWRHACKER&show_icons=true&theme=radical)
