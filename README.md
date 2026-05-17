@@ -1,11 +1,9 @@
 ### Hi there 👋 I'm RWRHACKER
 
-> 🧠 LLM Agent 应用开发 | 安全 AI 探索者
-
-- 🔭 目前在找 **Agent 方向实习机会**
-- 🌱 专注多 Agent 编排（CrewAI）、AI 应用从 0 到 1 构建
-- 💬 擅长：SV2TTS / Threat Intelligence / Prompt Engineering / PyQt5
-- 📫 联系方式：[你的邮箱]
+LLM Agent 应用开发 | 安全 AI 探索者
+专注多 Agent 编排（CrewAI）、AI 应用从 0 到 1 构建
+擅长：SV2TTS / Threat Intelligence / Prompt Engineering / PyQt5
+联系方式：1694399840@qq.com
 
 #### 🛠 Tech Stack
 
